@@ -1,0 +1,22 @@
+{
+  "date": "2026-02-13",
+  "summary": "- .streakagent: 4 changes\n- reverseAStringIterative.cpp: 2 changes",
+  "statistics": {
+    "totalFiles": 2,
+    "totalChanges": 6,
+    "mostEditedFile": ".streakagent",
+    "workDuration": "18h 6m",
+    "fileTypes": {
+      "unknown": 4,
+      "cpp": 2
+    },
+    "peakActivityHour": "16:00-17:00",
+    "totalLinesChanged": 54
+  },
+  "projectDetails": {
+    "branch": "main",
+    "commitHash": "5b45bb4",
+    "remote": "https://github.com/shivam10-bit/LinkedList.git",
+    "name": "c:\\Users\\shiva\\OneDrive\\Desktop\\DSA\\LinkedList"
+  }
+}
