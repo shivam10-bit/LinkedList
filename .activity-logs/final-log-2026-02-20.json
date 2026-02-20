@@ -1,0 +1,22 @@
+{
+  "date": "2026-02-20",
+  "summary": "- .streakagent: 23 changes\n- findStartingPoint..cpp: 6 changes\n- linkedListCycle2..cpp: 5 changes\n- detectALoop2.cpp: 3 changes\n- reverseAStringIterative.cpp: 2 changes\n- detectALoop.cpp: 2 changes\n- palindromeLinkedList.cpp: 2 changes\n- .cpp: 2 changes\n- oddEvenLL.cpp: 2 changes\n- findStartingPoint.cpp: 1 changes",
+  "statistics": {
+    "totalFiles": 10,
+    "totalChanges": 48,
+    "mostEditedFile": ".streakagent",
+    "workDuration": "198h 41m",
+    "fileTypes": {
+      "unknown": 25,
+      "cpp": 23
+    },
+    "peakActivityHour": "21:00-22:00",
+    "totalLinesChanged": 645
+  },
+  "projectDetails": {
+    "branch": "main",
+    "commitHash": "bfb711f",
+    "remote": "https://github.com/shivam10-bit/LinkedList.git",
+    "name": "c:\\Users\\shiva\\OneDrive\\Desktop\\DSA\\LinkedList"
+  }
+}
